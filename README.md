@@ -29,3 +29,10 @@ git clone https://github.com/yourusername/BuildFast.git
 cd BuildFast
 npm i
 npm run dev
+
+### Contributing
+We welcome contributions from the community! Whether it's improving the documentation, adding new features, or fixing bugs, please check out our contributing guidelines for more information on how to get involved.
+
+### License
+Distributed under the MIT License. See LICENSE for more information.
+
