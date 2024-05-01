@@ -25,7 +25,7 @@ Welcome to **BuildFast**, an open-source NextJS boilerplate designed to help you
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/BuildFast.git
+git clone https://github.com/open-xyz/build-fast.git
 cd BuildFast
 npm i
 npm run dev
